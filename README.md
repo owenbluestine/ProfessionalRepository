@@ -1,5 +1,4 @@
-# Jensens-Fourth-Affair-
-THIS IS JENSENS FOURTH AFFAIR. HE COULDNT RESIST THE LEATHER JACKET. I NEVER MET A MAN WHO COULD...
+READ ME
 
-
+This is an introduction Github demo
 
